@@ -13,7 +13,8 @@
         overflow: hidden;
         left: 47%;
         position: absolute;
-        top: 50vh;}
+        top: 50vh;
+animation-timing-function: linear;}
 h1 {display: flex;
 justify-content: center;
 align-items: center;
